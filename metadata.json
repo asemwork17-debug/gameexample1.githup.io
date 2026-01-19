@@ -1,0 +1,5 @@
+{
+  "name": "Troll Level Platformer",
+  "description": "A high-precision, deceptive platformer game inspired by Level Devil. Features custom physics, troll traps, analytics hooks, and mobile touch controls.",
+  "requestFramePermissions": []
+}
